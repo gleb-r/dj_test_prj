@@ -50,6 +50,7 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     #another update
+    #some branch upd
 ]
 
 ROOT_URLCONF = 'dj_test_prj.urls'
